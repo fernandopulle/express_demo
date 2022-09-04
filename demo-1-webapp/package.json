@@ -1,0 +1,23 @@
+{
+  "name": "demo-1-webapp",
+  "version": "1.0.0",
+  "description": "sample web application",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandopulle/express_demo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "fernandopulle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandopulle/express_demo/issues"
+  },
+  "homepage": "https://github.com/fernandopulle/express_demo#readme"
+}
